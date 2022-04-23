@@ -20,14 +20,19 @@ const emojipedia = [
         meaning:
             "This is funny! A smiley face, rolling on the floor, laughing. The face is laughing boundlessly. The emoji version of “rofl“. Stands for „rolling on the floor, laughing“.",
     },
-    { 
-
-
+    {
         id: 4,
         emoji: "😄",
         name: "Smiling Face With Open Mouth And Smiling Eyes",
         meaning:
             "Smiley's mouth is wide open, its eyes squeezed shut with joy. Laughs loudly, cheerfully and heartily. Only the typical emoji eyes distinguish it from the classical smiley face. Can also be used for sarcasm.",
+    },
+    {
+        id: 5,
+        emoji: "🧡",
+        name: "Orange Heart",
+        meaning:
+            "The heart shape is the symbol of love. The orange heart may represent a half-hearted love or you do not want to have a relationship but just be friends.",
     },
 ];
 
